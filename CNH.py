@@ -1,0 +1,11 @@
+class CNH:
+    nome = ""
+    rg = ""
+    cpf = ""
+    dt_nascto = ""
+    pai = ""
+    mae = ""
+    permissao = ""
+    registro = ""
+    validade = ""
+    dt_1a_habilitacao = ""
